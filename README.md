@@ -1,8 +1,8 @@
-# nexus_erp
 
-# Enterprise Accounting System
 
-## Overview
+# NEXUS Enterprise Accounting System
+
+## Overview (EN)
 
 This document provides a comprehensive guide to the accounting system implemented in our ERP solution. The system is built on modern accounting principles with a modular architecture that separates core functionality from specialized accounting processes.
 
